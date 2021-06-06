@@ -1,4 +1,4 @@
-# Hugo4715
+<img src="html.svg" width="800" height="200">
 <p>
   <em>
     Student at <a href="https://www.esiee.fr/"> <b>ESIEE Paris</b></a>. <br>
@@ -12,5 +12,4 @@
 
 ![hugo4715's github stats](https://github-readme-stats.vercel.app/api?username=hugo4715&show_icons=true&hide_border=true&count_private=true)
 
-<img src="html.svg" width="800" height="200">
 
