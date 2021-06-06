@@ -2,7 +2,7 @@
 <p>
   <em>
     Student at <a href="https://www.esiee.fr/"> <b>ESIEE Paris</b></a>. <br>
-    I love making random stuff for Minecraft Servers.
+    Making random stuff.
   </em>  
 </p>
 
