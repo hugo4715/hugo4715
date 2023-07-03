@@ -1,7 +1,6 @@
 <img src="html.svg" width="800" height="200">
 <p>
   <em>
-    Student at <a href="https://www.esiee.fr/"> <b>ESIEE Paris</b></a>. <br>
     Making random stuff.
   </em>  
 </p>
